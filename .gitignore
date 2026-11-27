@@ -1,0 +1,8 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 脚本运行时生成的状态文件
+netbackup.txt
+nic-name.txt
+read-domain.txt
